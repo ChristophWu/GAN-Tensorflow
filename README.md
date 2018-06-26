@@ -19,7 +19,7 @@ animation face dataset.
 - learning curve
 <img src="https://github.com/ChristophWu/GAN-Tensorflow/blob/master/material/learning_curve.png" width="500"/>
 
-- some examples of detected and undetected images
+- some examples of generated images
 <img src="https://github.com/ChristophWu/GAN-Tensorflow/blob/master/material/DCGAN_generation_animation.gif" width="500"/>
 
 ## Tips
